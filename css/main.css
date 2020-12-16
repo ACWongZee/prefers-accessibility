@@ -65,12 +65,12 @@ html {
 
 @media (prefers-reduced-motion) {
   img{
-    animation:none;
+    animation: none;
   }
 }
 
 @media (prefers-color-scheme: dark) {
-  background-color: #222;
+  background-color: #fff;
 }
 
 /* stylelint-enable */
