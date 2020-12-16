@@ -65,7 +65,7 @@ html {
 
 @media screen (prefers-reduced-motion) {
 
-  img{
+  .img{
     animation: none;
   }
 
