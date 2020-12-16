@@ -63,13 +63,13 @@ html {
 
 /* stylelint-disable media-feature-name-no-unknown */
 
-@media (prefers-reduced-motion) {
+@media screen (prefers-reduced-motion) {
   img{
     animation: none;
   }
 }
 
-@media (prefers-color-scheme: dark) {
+@media screen (prefers-color-scheme: dark) {
   background-color: #000;
 }
 
